@@ -5,5 +5,5 @@ This is also an extension of the Dijkstra algorithm.
 Algorithm and history : <a href="https://fr.wikipedia.org/wiki/Algorithme_A*">Algorithm A*</a>.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif">
-  ##### See also my video to create this on javascript + demonstration <a href="https://www.youtube.com/watch?v=RPm9Bi26pLA">Link to the video</a>
 </div>
+## See also my video to create this on javascript + demonstration <a href="https://www.youtube.com/watch?v=RPm9Bi26pLA">Link to the video</a>
