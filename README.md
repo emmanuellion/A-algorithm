@@ -1,4 +1,4 @@
-# A-algorithm
+# A-algorithm         https://img.shields.io/github//ansible/quality/Mabule/A-algorithm
 
 A* is an artificial intelligence wich search the best path to go from a point (1 or A) to an other point (2 or B).
 This is also an extension of the Dijkstra algorithm.
