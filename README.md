@@ -4,4 +4,4 @@ To see more on the algorithm and his history : <a href="https://fr.wikipedia.org
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif">
 </div>
-##### See also my video to create this on javascript + demonstration <a href="https://www.youtube.com/watch?v=RPm9Bi26pLA">Link to the video</a>
+#### See also my video to create this on javascript + demonstration <a href="https://www.youtube.com/watch?v=RPm9Bi26pLA">Link to the video</a>
