@@ -6,4 +6,6 @@ Algorithm and history : <a href="https://fr.wikipedia.org/wiki/Algorithme_A*">Al
 <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif">
 <br>
+
+<a href="https://mabule.github.io/snake/index.html">demonstration here</a>
 ##### See also my video to create this on javascript + demonstration <a href="https://www.youtube.com/watch?v=RPm9Bi26pLA">Link to the video</a>
